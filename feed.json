@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Finbarre Snarey",
+    "description": "",
+    "home_page_url": "https://finbarre.com",
+    "feed_url": "https://finbarre.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Finbarre Snarey"
+    },
+    "items": [
+        {
+            "id": "https://finbarre.com/test-post/",
+            "url": "https://finbarre.com/test-post/",
+            "title": "What Guests Say",
+            "summary": "A selection of comments from guests who have taken part in Finbarre Snarey’s interview projects, including Tarot Interviews and Tarot DMs. “This interview format is so accessible, I think it’s genius” - Lucy Rose, The Lamb “By far the most dynamic interview I have ever&hellip;",
+            "content_html": "\n  <p>\n    A selection of comments from guests who have taken part in Finbarre Snarey’s interview projects, including Tarot Interviews and Tarot DMs.\n  </p>\n\n  <p>\n    “This interview format is so accessible, I think it’s genius” - Lucy Rose, <em>The Lamb</em>\n  </p>\n\n  <p>\n    “By far the most dynamic interview I have ever done”&nbsp; -&nbsp;Amy Twigg, <em>Spoilt Creatures</em>\n  </p>\n\n  <p>\n    “A really brilliant format” - Emma van Straaten, <em>This Immaculate Body</em>\n  </p>\n\n  <p>\n    “A lot of fun” - Sacha Coward, <em>Queer as Folklore</em>\n  </p>\n\n  <p>\n    “I have so enjoyed our conversation!” - Joanne Harris, <em>Chocolat</em>\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-18T20:00:01+01:00",
+            "date_modified": "2026-05-19T13:12:55+01:00"
+        }
+    ]
+}

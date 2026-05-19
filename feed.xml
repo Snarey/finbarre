@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Finbarre Snarey</title>
+    <link href="https://finbarre.com/feed.xml" rel="self" />
+    <link href="https://finbarre.com" />
+    <updated>2026-05-19T13:12:55+01:00</updated>
+    <author>
+        <name>Finbarre Snarey</name>
+    </author>
+    <id>https://finbarre.com</id>
+
+    <entry>
+        <title>What Guests Say</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://finbarre.com/test-post/"/>
+        <id>https://finbarre.com/test-post/</id>
+
+        <updated>2026-05-18T20:00:01+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A selection of comments from guests who have taken part in Finbarre Snarey’s interview projects, including Tarot Interviews and Tarot DMs. “This interview format is so accessible, I think it’s genius” - Lucy Rose, The Lamb “By far the most dynamic interview I have ever&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    A selection of comments from guests who have taken part in Finbarre Snarey’s interview projects, including Tarot Interviews and Tarot DMs.
+  </p>
+
+  <p>
+    “This interview format is so accessible, I think it’s genius” - Lucy Rose, <em>The Lamb</em>
+  </p>
+
+  <p>
+    “By far the most dynamic interview I have ever done”&nbsp; -&nbsp;Amy Twigg, <em>Spoilt Creatures</em>
+  </p>
+
+  <p>
+    “A really brilliant format” - Emma van Straaten, <em>This Immaculate Body</em>
+  </p>
+
+  <p>
+    “A lot of fun” - Sacha Coward, <em>Queer as Folklore</em>
+  </p>
+
+  <p>
+    “I have so enjoyed our conversation!” - Joanne Harris, <em>Chocolat</em>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

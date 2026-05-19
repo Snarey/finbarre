@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://finbarre.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://finbarre.com/</loc>
+</url>
+<url>
+<loc>https://finbarre.com/about-finbarre-snarey/</loc>
+<lastmod>2026-05-19T18:30:41+01:00</lastmod>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/11/gallery/20240812_111410-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/11/gallery/20230803_112949~2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/11/gallery/IMG_20240527_170114_109-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/11/gallery/IMG_20250620_150027_832-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/11/gallery/original_bc6df9c1-5c8e-46fb-85d7-c788abc7fe16_PXL_20260426_131730562.MACRO_FOCUS-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://finbarre.com/contact/</loc>
+<lastmod>2026-05-19T09:43:04+01:00</lastmod>
+</url>
+<url>
+<loc>https://finbarre.com/journalism/</loc>
+<lastmod>2026-05-19T13:13:20+01:00</lastmod>
+</url>
+<url>
+<loc>https://finbarre.com/library/</loc>
+<lastmod>2026-05-19T09:21:09+01:00</lastmod>
+</url>
+<url>
+<loc>https://finbarre.com/projects/</loc>
+<lastmod>2026-05-19T18:05:54+01:00</lastmod>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/3/gallery/Tarot-17-thumbnail.png</image:loc>
+<image:title><![CDATA[The official logo of the Tarot DMs Substack]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/3/gallery/BTA-Logo-thumbnail.png</image:loc>
+<image:title><![CDATA[The official logo of the British Tarot Archive]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/3/gallery/TAROT-16-1-thumbnail.png</image:loc>
+<image:title><![CDATA[The official logo of the Tarot Interviews podcast]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://finbarre.com/tarot/</loc>
+<lastmod>2026-05-19T09:40:02+01:00</lastmod>
+<image:image>
+<image:loc>https://finbarre.com/media/posts/9/Finbarre-Tarot.jpg</image:loc>
+<image:title><![CDATA[Portrait drawing of Finbarre Snarey from 1998 showing a tarot-themed scene.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://finbarre.com/test-post/</loc>
+<lastmod>2026-05-19T13:12:55+01:00</lastmod>
+</url>
+<url>
+<loc>https://finbarre.com/testimonials/</loc>
+<lastmod>2026-05-19T21:24:57+01:00</lastmod>
+</url>
+</urlset>
