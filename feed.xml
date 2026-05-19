@@ -3,56 +3,42 @@
     <title>Finbarre Snarey</title>
     <link href="https://finbarre.com/feed.xml" rel="self" />
     <link href="https://finbarre.com" />
-    <updated>2026-05-19T13:12:55+01:00</updated>
+    <updated>2026-05-19T22:45:50+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://finbarre.com</id>
 
     <entry>
-        <title>What Guests Say</title>
+        <title>Tarot Interviews Comes To Bearded Theory</title>
         <author>
             <name>Finbarre Snarey</name>
         </author>
-        <link href="https://finbarre.com/test-post/"/>
-        <id>https://finbarre.com/test-post/</id>
+        <link href="https://finbarre.com/bearded-theory/"/>
+        <id>https://finbarre.com/bearded-theory/</id>
+        <media:content url="https://finbarre.com/media/posts/2/ab67706c0000da847a39b0892e53067a2cc5cf1a.jpg" medium="image" />
+            <category term="Tarot Interviews"/>
+            <category term="Festival"/>
 
         <updated>2026-05-18T20:00:01+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    A selection of comments from guests who have taken part in Finbarre Snarey’s interview projects, including Tarot Interviews and Tarot DMs. “This interview format is so accessible, I think it’s genius” - Lucy Rose, The Lamb “By far the most dynamic interview I have ever&hellip;
+                        <img src="https://finbarre.com/media/posts/2/ab67706c0000da847a39b0892e53067a2cc5cf1a.jpg" alt="The official logo for the 2026 Bearded Theory festival" />
+                    I’ll be visiting Bearded Theory 2026 with Tarot Interviews to capture vox pops, one-card conversations and quick chats with artists, festivalgoers and curious passers-by. One tarot card, one question. Across the weekend, I’ll be roaming the festival site with a deck, a microphone and a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://finbarre.com/media/posts/2/ab67706c0000da847a39b0892e53067a2cc5cf1a.jpg" class="type:primaryImage" alt="The official logo for the 2026 Bearded Theory festival" /></p>
                 
   <p>
-    A selection of comments from guests who have taken part in Finbarre Snarey’s interview projects, including Tarot Interviews and Tarot DMs.
+    I’ll be visiting Bearded Theory 2026 with Tarot Interviews to capture vox pops, one-card conversations and quick chats with artists, festivalgoers and curious passers-by.<br><br>One tarot card, one question.<br><br>Across the weekend, I’ll be roaming the festival site with a deck, a microphone and a camera, inviting people to share something prompted by their card. These will become short-form video, audio and written pieces for Tarot Interviews and related channels.<br><br>I’m especially interested in those moments that stay with people long after the weekend ends: muddy boots, a smile left from the compliment of a friendly stranger, the feeling that your bones are still vibrating at the same frequency of Garbage's opening number.<br><br>If you see me at Bearded Theory and fancy taking part, come and say hello!. Look for the man in the bowler hat with a tarot card in the brim.
   </p>
 
-  <p>
-    “This interview format is so accessible, I think it’s genius” - Lucy Rose, <em>The Lamb</em>
-  </p>
-
-  <p>
-    “By far the most dynamic interview I have ever done”&nbsp; -&nbsp;Amy Twigg, <em>Spoilt Creatures</em>
-  </p>
-
-  <p>
-    “A really brilliant format” - Emma van Straaten, <em>This Immaculate Body</em>
-  </p>
-
-  <p>
-    “A lot of fun” - Sacha Coward, <em>Queer as Folklore</em>
-  </p>
-
-  <p>
-    “I have so enjoyed our conversation!” - Joanne Harris, <em>Chocolat</em>
-  </p>
-
-  <p>
-    
-  </p>
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://finbarre.com/media/posts/2/PXL_20260514_103947460~2-2.jpg" height="3000" width="2999" alt="Grey bowler hat with a Wheel of Fortune tarot card tucked into the band, beside a microphone with Tarot Interviews stickers and a wooden walking stick on a patterned red quilt."  sizes="(max-width: 48em) 100vw, 768px" srcset="https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-xs.jpg 300w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-sm.jpg 480w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-md.jpg 768w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-lg.jpg 1024w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-xl.jpg 1360w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-2xl.jpg 1600w">
+      <figcaption>Packing the essentials</figcaption>
+    </figure>
             ]]>
         </content>
     </entry>
