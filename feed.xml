@@ -3,12 +3,38 @@
     <title>Finbarre Snarey</title>
     <link href="https://finbarre.com/feed.xml" rel="self" />
     <link href="https://finbarre.com" />
-    <updated>2026-05-20T08:37:02+01:00</updated>
+    <updated>2026-05-26T20:21:11+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://finbarre.com</id>
 
+    <entry>
+        <title>Back from Bearded Theory 2026. With a tan!</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://finbarre.com/back-from-bearded-theory-2026-with-a-tan/"/>
+        <id>https://finbarre.com/back-from-bearded-theory-2026-with-a-tan/</id>
+        <media:content url="https://finbarre.com/media/posts/13/PXL_20260523_103456379.MP.jpg" medium="image" />
+            <category term="Tarot Interviews"/>
+            <category term="On location"/>
+            <category term="Festival"/>
+
+        <updated>2026-05-26T20:21:11+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://finbarre.com/media/posts/13/PXL_20260523_103456379.MP.jpg" alt="Finbarre Snarey’s green Bearded Theory 2026 press wristband for Tarot Interviews, photographed in front of the festival main stage on a sunny weekend in Derbyshire." />
+                    I'm back after a wonderful sun-drenched weekend in the wilds of Derbyshire. Full coverage of Bearded Theory will be published soon, including conversations with artists, stallholders and festivalgoers.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://finbarre.com/media/posts/13/PXL_20260523_103456379.MP.jpg" class="type:primaryImage" alt="Finbarre Snarey’s green Bearded Theory 2026 press wristband for Tarot Interviews, photographed in front of the festival main stage on a sunny weekend in Derbyshire." /></p>
+                <p>I'm back after a wonderful sun-drenched weekend in the wilds of Derbyshire. Full coverage of Bearded Theory will be published soon, including conversations with artists, stallholders and festivalgoers.<br><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tarot Interviews Comes To Bearded Theory</title>
         <author>
