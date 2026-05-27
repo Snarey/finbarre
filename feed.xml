@@ -3,12 +3,42 @@
     <title>Finbarre Snarey</title>
     <link href="https://finbarre.com/feed.xml" rel="self" />
     <link href="https://finbarre.com" />
-    <updated>2026-05-26T20:21:11+01:00</updated>
+    <updated>2026-05-27T13:48:02+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://finbarre.com</id>
 
+    <entry>
+        <title>UD made a mug out of me</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://finbarre.com/ud-made-a-mug-out-of-me/"/>
+        <id>https://finbarre.com/ud-made-a-mug-out-of-me/</id>
+        <media:content url="https://finbarre.com/media/posts/14/UD-Screenshot.png" medium="image" />
+            <category term="Merchandise"/>
+            <category term="Aleatory"/>
+
+        <updated>2026-05-27T13:48:02+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://finbarre.com/media/posts/14/UD-Screenshot.png" alt="A mug featuring the phrase aleatory journalism, representing Finbarre Snarey’s chance-based interview method used in Tarot Interviews and Tarot DMs." />
+                    I discovered that Urban Dictionary have picked up on my coining of "aleatory journalism" recently and... well, this now exists in all of its poorly formatted glory. What a time to be alive! I'm Mug Famous.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://finbarre.com/media/posts/14/UD-Screenshot.png" class="type:primaryImage" alt="A mug featuring the phrase aleatory journalism, representing Finbarre Snarey’s chance-based interview method used in Tarot Interviews and Tarot DMs." /></p>
+                <p>I discovered that Urban Dictionary have picked up on my coining of "<a href="https://finbarre.com/journalism/" target="_blank" rel="noopener noreferrer">aleatory journalism</a>" recently and... well, this now exists in all of its poorly formatted glory. What a time to be alive! I'm Mug Famous.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Back from Bearded Theory 2026. With a tan!</title>
         <author>
@@ -36,7 +66,7 @@
         </content>
     </entry>
     <entry>
-        <title>Tarot Interviews Comes To Bearded Theory</title>
+        <title>Tarot Interviews comes to Bearded Theory</title>
         <author>
             <name>Finbarre Snarey</name>
         </author>

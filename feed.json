@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://finbarre.com/ud-made-a-mug-out-of-me/",
+            "url": "https://finbarre.com/ud-made-a-mug-out-of-me/",
+            "title": "UD made a mug out of me",
+            "summary": "I discovered that Urban Dictionary have picked up on my coining of \"aleatory journalism\" recently and... well, this now exists in all of its poorly formatted glory. What a time to be alive! I'm Mug Famous.",
+            "content_html": "<p>I discovered that Urban Dictionary have picked up on my coining of \"<a href=\"https://finbarre.com/journalism/\" target=\"_blank\" rel=\"noopener noreferrer\">aleatory journalism</a>\" recently and... well, this now exists in all of its poorly formatted glory. What a time to be alive! I'm Mug Famous.</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://finbarre.com/media/posts/14/UD-Screenshot.png",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+                   "Merchandise",
+                   "Aleatory"
+            ],
+            "date_published": "2026-05-27T13:48:02+01:00",
+            "date_modified": "2026-05-27T13:48:02+01:00"
+        },
+        {
             "id": "https://finbarre.com/back-from-bearded-theory-2026-with-a-tan/",
             "url": "https://finbarre.com/back-from-bearded-theory-2026-with-a-tan/",
             "title": "Back from Bearded Theory 2026. With a tan!",
@@ -30,7 +47,7 @@
         {
             "id": "https://finbarre.com/bearded-theory/",
             "url": "https://finbarre.com/bearded-theory/",
-            "title": "Tarot Interviews Comes To Bearded Theory",
+            "title": "Tarot Interviews comes to Bearded Theory",
             "summary": "I’ll be visiting Bearded Theory&nbsp;with the Tarot Interviews team to capture vox pops, one-card conversations and quick chats with artists, festivalgoers and curious passers-by. One tarot card, one question. Across the weekend, I’ll be roaming the festival site with a deck, a microphone and a&hellip;",
             "content_html": "\n  <p>\n    I’ll be visiting <a href=\"https://beardedtheory.co.uk/\" target=\"_blank\">Bearded Theory</a>&nbsp;with the Tarot Interviews team to capture vox pops, one-card conversations and quick chats with artists, festivalgoers and curious passers-by.<br><br>One tarot card, one question.<br><br>Across the weekend, I’ll be roaming the festival site with a deck, a microphone and a camera, inviting people to share something inspired by their card.\n  </p>\n<div><div class=\"post__iframe\"><iframe data-testid=\"embed-iframe\" style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/show/0CAxcBIEmDgfrz9onp0zpM?utm_source=generator\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe></div>\n</div>\n\n  <p>\n    I’m especially interested in those moments that stay with people long after the weekend ends: muddy boots, a smile left from the compliment of a friendly stranger, the feeling that your bones are still vibrating at the same frequency of Garbage's opening number.<br><br>If you see me at Bearded Theory and fancy taking part, come and say hello! Look for the man in the bowler hat with a tarot card in the brim.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://finbarre.com/media/posts/2/PXL_20260514_103947460~2-2.jpg\" height=\"3000\" width=\"2999\" alt=\"Grey bowler hat with a Wheel of Fortune tarot card tucked into the band, beside a microphone with Tarot Interviews stickers and a wooden walking stick on a patterned red quilt.\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-xs.jpg 300w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-sm.jpg 480w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-md.jpg 768w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-lg.jpg 1024w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-xl.jpg 1360w ,https://finbarre.com/media/posts/2/responsive/PXL_20260514_103947460~2-2-2xl.jpg 1600w\">\n      <figcaption>Packing the essentials</figcaption>\n    </figure>",
             "image": "https://finbarre.com/media/posts/2/BT26-ANNC2-A3-scaled.jpg",
@@ -43,7 +60,7 @@
                    "Festival"
             ],
             "date_published": "2026-05-18T20:00:01+01:00",
-            "date_modified": "2026-05-20T08:37:02+01:00"
+            "date_modified": "2026-05-27T13:39:08+01:00"
         }
     ]
 }
