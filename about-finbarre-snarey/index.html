@@ -2,8 +2,74 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@type": "WebSite",
+      "@id": "https://finbarre.com/#website",
+      "url": "https://finbarre.com/",
+      "name": "Finbarre Snarey",
+      "description": "The website of Finbarre Snarey, arts and culture journalist, producer and creative technologist.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://finbarre.com/#portrait",
+      "url": "https://finbarre.com/media/posts/1/Finbarre-Snarey.jpg",
+      "height": 2208,
+      "width": 2208,
+      "caption": "Finbarre Snarey"
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://finbarre.com/#profile",
+      "url": "https://finbarre.com/",
+      "name": "Finbarre Snarey",
+      "headline": "Finbarre Snarey",
+      "description": "Finbarre Snarey is an arts and culture journalist, producer and creative technologist behind Tarot Interviews, Tarot DMs and the British Tarot Archive.",
+      "datePublished": "2026-05-18T19:14:00+01:00",
+      "dateModified": "2026-05-19T13:13:00+01:00",
+      "image": {
+        "@id": "https://finbarre.com/#portrait"
+      },
+      "mainEntity": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://finbarre.com/#homepage-article",
+      "mainEntityOfPage": {
+        "@id": "https://finbarre.com/#profile"
+      },
+      "headline": "Welcome",
+      "datePublished": "2026-05-18T19:14:00+01:00",
+      "dateModified": "2026-05-19T13:13:00+01:00",
+      "image": {
+        "@id": "https://finbarre.com/#portrait"
+      },
+      "description": "Finbarre Snarey is an arts and culture journalist, producer and creative technologist behind Tarot Interviews, Tarot DMs and the British Tarot Archive.",
+      "author": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "about": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
       "@type": "Person",
-      "@id": "https://finbarre.com/#finbarre-snarey",
+      "@id": "https://finbarre.com/#person",
       "name": "Finbarre Snarey",
       "alternateName": [
         "Finbarre",
@@ -11,6 +77,12 @@
         "Fin"
       ],
       "url": "https://finbarre.com/",
+      "mainEntityOfPage": {
+        "@id": "https://finbarre.com/#profile"
+      },
+      "image": {
+        "@id": "https://finbarre.com/#portrait"
+      },
       "description": "Finbarre Snarey is a UK-based arts and culture journalist, producer and creative technologist based in Beeston, Nottinghamshire. He is the creator of Tarot Interviews, Tarot DMs and the British Tarot Archive, and coined the term aleatory journalism for interview and reporting methods shaped by chance, structured prompts and creative constraints.",
       "jobTitle": [
         "Arts and Culture Journalist",
@@ -19,6 +91,10 @@
         "Podcast Host",
         "Tarot Researcher"
       ],
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Beeston, Nottinghamshire, United Kingdom"
+      },
       "knowsAbout": [
         "Aleatory journalism",
         "Aleatoric methods",
@@ -31,7 +107,8 @@
         "Podcast production",
         "Digital publishing",
         "British tarot history",
-        "Living heritage"
+        "Living heritage",
+        "Intangible cultural heritage"
       ],
       "sameAs": [
         "https://tarotinterviews.com/",
@@ -41,13 +118,17 @@
         "https://www.instagram.com/finbarre/",
         "https://www.linkedin.com/in/finbarresnarey/",
         "https://www.imdb.com/name/nm17224867/",
-        "https://www.youtube.com/watch?v=CVnsFfigi7s",
-        "http://aleatory-journalism.urbanup.com/18626371",
-        "https://www.urbandictionary.com/define.php?term=Aleatoric"
+        "https://www.youtube.com/watch?v=CVnsFfigi7s"
       ],
       "subjectOf": [
         {
+          "@id": "https://finbarre.com/#profile"
+        },
+        {
           "@id": "https://finbarre.com/journalism/#webpage"
+        },
+        {
+          "@id": "https://finbarre.com/journalism/#aleatory-journalism"
         },
         {
           "@id": "https://assets.finbarre.com/research/piercing-the-pr-shield/piercing-the-pr-shield.pdf#creative-work"
@@ -63,18 +144,81 @@
         },
         {
           "@id": "https://www.youtube.com/watch?v=CVnsFfigi7s#video"
+        },
+        {
+          "@id": "https://finbarre.com/#bearded-theory-2026-coverage"
+        },
+        {
+          "@id": "https://finbarre.com/#tarot-cultures-2026-talk"
         }
       ]
     },
     {
-      "@type": "WebSite",
-      "@id": "https://finbarre.com/#website",
-      "url": "https://finbarre.com/",
-      "name": "Finbarre Snarey",
-      "description": "The website of Finbarre Snarey, arts and culture journalist, producer and creative technologist.",
-      "publisher": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+      "@type": "SiteNavigationElement",
+      "@id": "https://finbarre.com/#site-navigation",
+      "name": [
+        "About",
+        "Projects",
+        "Journalism",
+        "Tarot",
+        "Library",
+        "Testimonials",
+        "Contact"
+      ],
+      "url": [
+        "https://finbarre.com/about/",
+        "https://finbarre.com/projects/",
+        "https://finbarre.com/journalism/",
+        "https://finbarre.com/tarot/",
+        "https://finbarre.com/book-me/",
+        "https://finbarre.com/testimonials/",
+        "https://finbarre.com/contact/"
+      ],
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
       }
+    },
+    {
+      "@type": "AboutPage",
+      "@id": "https://finbarre.com/about/#webpage",
+      "url": "https://finbarre.com/about/",
+      "name": "About Finbarre Snarey",
+      "description": "About Finbarre Snarey, arts and culture journalist, producer and creative technologist.",
+      "mainEntity": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://finbarre.com/projects/#webpage",
+      "url": "https://finbarre.com/projects/",
+      "name": "Projects - Finbarre Snarey",
+      "description": "Projects by Finbarre Snarey, including Tarot Interviews, Tarot DMs, the British Tarot Archive and PodcastGuest.org.",
+      "about": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "hasPart": [
+        {
+          "@id": "https://tarotinterviews.com/#website"
+        },
+        {
+          "@id": "https://tarotdms.com/#website"
+        },
+        {
+          "@id": "https://britishtarotarchive.org/#website"
+        },
+        {
+          "@id": "https://podcastguest.org/#website"
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "inLanguage": "en-GB"
     },
     {
       "@type": "WebPage",
@@ -84,17 +228,17 @@
       "headline": "Journalism",
       "description": "Journalism, interviews, editorial standards and aleatory journalism by Finbarre Snarey.",
       "author": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "publisher": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "isPartOf": {
         "@id": "https://finbarre.com/#website"
       },
       "about": [
         {
-          "@id": "https://finbarre.com/#finbarre-snarey"
+          "@id": "https://finbarre.com/#person"
         },
         {
           "@id": "https://finbarre.com/journalism/#aleatory-journalism"
@@ -113,7 +257,8 @@
         {
           "@id": "https://assets.finbarre.com/research/piercing-the-pr-shield/piercing-the-pr-shield.pdf#creative-work"
         }
-      ]
+      ],
+      "inLanguage": "en-GB"
     },
     {
       "@type": "DefinedTerm",
@@ -167,10 +312,10 @@
       "datePublished": "2026-01",
       "version": "2.1.0",
       "author": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "creator": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "keywords": [
         "Qualitative Research",
@@ -193,7 +338,8 @@
         {
           "@id": "https://tarotdms.com/#website"
         }
-      ]
+      ],
+      "inLanguage": "en-GB"
     },
     {
       "@type": "BlogPosting",
@@ -205,10 +351,10 @@
       "datePublished": "2026-05-27",
       "dateModified": "2026-05-27",
       "author": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "publisher": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "isPartOf": {
         "@id": "https://finbarre.com/#website"
@@ -228,7 +374,8 @@
         "@type": "WebPage",
         "@id": "https://finbarre.com/ud-made-a-mug-out-of-me/#webpage",
         "url": "https://finbarre.com/ud-made-a-mug-out-of-me/"
-      }
+      },
+      "inLanguage": "en-GB"
     },
     {
       "@type": "VideoObject",
@@ -248,7 +395,7 @@
       },
       "about": [
         {
-          "@id": "https://finbarre.com/#finbarre-snarey"
+          "@id": "https://finbarre.com/#person"
         },
         {
           "@id": "https://finbarre.com/journalism/#aleatory-journalism"
@@ -264,7 +411,8 @@
         {
           "@id": "https://britishtarotarchive.org/#website"
         }
-      ]
+      ],
+      "inLanguage": "en-GB"
     },
     {
       "@type": "WebPage",
@@ -276,13 +424,14 @@
         "@id": "https://finbarre.com/journalism/#aleatory-journalism"
       },
       "mentions": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "isPartOf": {
         "@type": "WebSite",
         "name": "Urban Dictionary Store",
         "url": "https://urbandictionary.store/"
-      }
+      },
+      "inLanguage": "en"
     },
     {
       "@type": "WebPage",
@@ -302,7 +451,90 @@
         "@type": "WebSite",
         "name": "Urban Dictionary",
         "url": "https://www.urbandictionary.com/"
-      }
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://finbarre.com/tarot/#webpage",
+      "url": "https://finbarre.com/tarot/",
+      "name": "Tarot - Finbarre Snarey",
+      "description": "Tarot culture, tarot interviews and tarot research by Finbarre Snarey.",
+      "about": [
+        {
+          "@id": "https://finbarre.com/#person"
+        },
+        {
+          "@id": "https://tarotinterviews.com/#website"
+        },
+        {
+          "@id": "https://tarotdms.com/#website"
+        },
+        {
+          "@id": "https://britishtarotarchive.org/#website"
+        }
+      ],
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://finbarre.com/tarot/#tarot-culture-commentary-service",
+      "name": "Tarot culture commentary",
+      "description": "Commentary and interview expertise on tarot culture, tarot history and contemporary tarot practice.",
+      "provider": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "United Kingdom"
+      },
+      "serviceType": "Arts and culture commentary",
+      "url": "https://finbarre.com/tarot/"
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://finbarre.com/library/#webpage",
+      "url": "https://finbarre.com/library/",
+      "name": "Library - Finbarre Snarey",
+      "description": "Reports, research links and public documents by Finbarre Snarey.",
+      "about": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://finbarre.com/testimonials/#webpage",
+      "url": "https://finbarre.com/testimonials/",
+      "name": "Testimonials - Finbarre Snarey",
+      "description": "Testimonials and guest feedback for Finbarre Snarey's interview formats and creative projects.",
+      "about": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "ContactPage",
+      "@id": "https://finbarre.com/contact/#webpage",
+      "url": "https://finbarre.com/contact/",
+      "name": "Contact Finbarre Snarey",
+      "description": "Contact Finbarre Snarey for journalism, podcast appearances, tarot culture commentary and creative projects.",
+      "about": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "inLanguage": "en-GB"
     },
     {
       "@type": "WebSite",
@@ -311,11 +543,29 @@
       "name": "Tarot Interviews",
       "description": "Tarot Interviews is a podcast created by Finbarre Snarey where creative people are interviewed using tarot cards as structured prompts.",
       "creator": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "publisher": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
-      }
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "PodcastSeries",
+      "@id": "https://tarotinterviews.com/#podcast",
+      "url": "https://tarotinterviews.com/",
+      "name": "Tarot Interviews",
+      "description": "Tarot Interviews is a podcast created and hosted by Finbarre Snarey where creative people are interviewed using tarot cards as structured prompts.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "author": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
     },
     {
       "@type": "WebSite",
@@ -324,11 +574,30 @@
       "name": "Tarot DMs",
       "description": "Tarot DMs is a messenger-based interview series created by Finbarre Snarey where artists, writers and creative people respond to three tarot cards.",
       "creator": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "publisher": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
-      }
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "@id": "https://tarotdms.com/#series",
+      "url": "https://tarotdms.com/",
+      "name": "Tarot DMs",
+      "description": "Tarot DMs is a messenger-based interview series where artists, writers and creative people respond to three tarot cards in a one-hour digital scrapbook format.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "author": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "issn": "2978-8935",
+      "inLanguage": "en-GB"
     },
     {
       "@type": "WebSite",
@@ -337,14 +606,103 @@
       "name": "The British Tarot Archive",
       "description": "The British Tarot Archive is an independent archive project documenting tarot decks and printed tarot material connected with Britain and the UK.",
       "creator": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
+        "@id": "https://finbarre.com/#person"
       },
       "publisher": {
-        "@id": "https://finbarre.com/#finbarre-snarey"
-      }
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://britishtarotarchive.org/#organization",
+      "url": "https://britishtarotarchive.org/",
+      "name": "The British Tarot Archive",
+      "description": "An independent archive project documenting tarot decks and printed tarot material connected with Britain and the UK.",
+      "founder": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "sameAs": [
+        "https://britishtarotarchive.org/"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://podcastguest.org/#website",
+      "url": "https://podcastguest.org/",
+      "name": "PodcastGuest.org",
+      "description": "PodcastGuest.org is an audio-first podcast guest directory created by Finbarre Snarey.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "PodcastSeries",
+      "@id": "https://podcastguest.org/#podcast",
+      "url": "https://podcastguest.org/",
+      "name": "PodcastGuest.org",
+      "description": "An audio-first podcast guest discovery project where producers can start with a guest's voice.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://finbarre.com/#bearded-theory-2026-coverage",
+      "name": "Bearded Theory Festival 2026 coverage",
+      "description": "Festival interviews, vox pops and tarot-led conversations recorded by Finbarre Snarey for Tarot Interviews at Bearded Theory Festival 2026.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "about": [
+        {
+          "@id": "https://tarotinterviews.com/#podcast"
+        },
+        {
+          "@id": "https://finbarre.com/#person"
+        }
+      ],
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Event",
+      "@id": "https://finbarre.com/#tarot-cultures-2026-talk",
+      "name": "Tarot Reading as Living Heritage: Documenting Contemporary Rider-Waite-Smith Practice in the UK",
+      "description": "A conference talk by Finbarre Snarey on tarot reading as living heritage and contemporary Rider-Waite-Smith practice in the UK.",
+      "startDate": "2026-06-12",
+      "endDate": "2026-06-13",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "Goldsmiths, University of London",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressCountry": "GB"
+        }
+      },
+      "performer": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "about": [
+        "Tarot culture",
+        "Rider-Waite-Smith tarot",
+        "Living heritage",
+        "Intangible cultural heritage"
+      ],
+      "inLanguage": "en-GB"
     }
   ]
-}</script></head><body class="page-template"><header class="topbar" id="js-header"><div class="topbar__inner"><a class="logo" href="https://finbarre.com/">Finbarre Snarey</a><nav class="navbar"><button class="navbar__toggle" aria-label="Menu" aria-haspopup="true" aria-expanded="false"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li><a href="https://finbarre.com/book-me/" target="_self">Book Me</a></li><li class="active"><a href="https://finbarre.com/about-finbarre-snarey/" target="_self">About</a></li><li><a href="https://finbarre.com/projects/" target="_self">Projects</a></li><li><a href="https://finbarre.com/journalism/">Journalism</a></li><li><a href="https://finbarre.com/tarot/">Tarot</a></li><li><a href="https://finbarre.com/testimonials/" target="_self">Testimonials</a></li><li><a href="https://finbarre.com/contact/" target="_self">Contact</a></li></ul></nav></div></header><div class="main-content"><div class="infobar"><div class="infobar__update">Last Updated: <time datetime="2026-05-28T09:35">May 28, 2026</time></div></div><main class="main page"><article class="content"><header class="u-header content__header"><h1>About</h1></header><div class="content__entry u-inner"><p data-start="59" data-end="288">Finbarre Snarey is often found in a meadow or just off the woodland path, taking pictures of insects with his phone. He collects and upcycles old technology, is a big fan of Art Nouveau, and his favourite flower is the dandelion.</p><p data-start="290" data-end="608">During his recovery from Covid, Finbarre began building creative projects to find his way back into the world. Tarot Interviews, Tarot DMs and the British Tarot Archive all grew from that time.</p><p data-start="610" data-end="708">Finbarre has been married to Nik Snarey for eighteen years. They have two children and three cats.</p><p>One day he will finish his book of poetry.</p><div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3"><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/20240812_111410.jpg" data-size="3024x3024"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/20240812_111410-thumbnail.jpg" alt="" width="768" height="768"></a></figure><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/20230803_112949~2.jpg" data-size="1533x1533"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/20230803_112949~2-thumbnail.jpg" alt="" width="768" height="768"></a></figure><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/IMG_20240527_170114_109.jpg" data-size="1925x1925"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/IMG_20240527_170114_109-thumbnail.jpg" alt="" width="768" height="768"></a></figure><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/IMG_20250620_150027_832.webp" data-size="2084x2084"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/IMG_20250620_150027_832-thumbnail.webp" alt="" width="768" height="768"></a></figure><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/original_bc6df9c1-5c8e-46fb-85d7-c788abc7fe16_PXL_20260426_131730562.MACRO_FOCUS-2.jpg" data-size="1225x1226"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/original_bc6df9c1-5c8e-46fb-85d7-c788abc7fe16_PXL_20260426_131730562.MACRO_FOCUS-2-thumbnail.jpg" alt="" width="768" height="769"></a></figure></div></div></div></article></main><div class="sidebar"><section class="box featured"><h3 class="box__title">Featured</h3><ul class="featured__container"><li class="featured__item"><a href="https://finbarre.com/ud-made-a-mug-out-of-me/" class="featured__image-link"><img src="https://finbarre.com/media/posts/14/responsive/UD-Screenshot-xs.png" class="lazyload" loading="lazy" alt="A mug featuring the phrase aleatory journalism, representing Finbarre Snarey’s chance-based interview method used in Tarot Interviews and Tarot DMs." height="4320" width="4320"></a><div><a href="https://finbarre.com/ud-made-a-mug-out-of-me/" class="featured__title">UD made a mug out of me</a></div></li><li class="featured__item"><a href="https://finbarre.com/back-from-bearded-theory-2026-with-a-tan/" class="featured__image-link"><img src="https://finbarre.com/media/posts/13/responsive/PXL_20260523_103456379.MP-xs.jpg" class="lazyload" loading="lazy" alt="Finbarre Snarey’s green Bearded Theory 2026 press wristband for Tarot Interviews, photographed in front of the festival main stage on a sunny weekend in Derbyshire." height="2833" width="2833"></a><div><a href="https://finbarre.com/back-from-bearded-theory-2026-with-a-tan/" class="featured__title">Back from Bearded Theory 2026. With a tan!</a></div></li><li class="featured__item"><a href="https://finbarre.com/bearded-theory/" class="featured__image-link"><img src="https://finbarre.com/media/posts/2/responsive/BT26-ANNC2-A3-scaled-xs.jpg" class="lazyload" loading="lazy" alt="The official poster for the 2026 Bearded Theory festival" height="2560" width="2560"></a><div><a href="https://finbarre.com/bearded-theory/" class="featured__title">Tarot Interviews comes to Bearded Theory</a></div></li></ul></section><section class="box"><h3 class="box__title">Tags</h3><ul class="tags"><li><a href="https://finbarre.com/tags/aleatory/">Aleatory</a> <span class="u-small">(1)</span></li><li><a href="https://finbarre.com/tags/festival/">Festival</a> <span class="u-small">(2)</span></li><li><a href="https://finbarre.com/tags/merchandise/">Merchandise</a> <span class="u-small">(1)</span></li><li><a href="https://finbarre.com/tags/on-location/">On location</a> <span class="u-small">(2)</span></li><li><a href="https://finbarre.com/tags/tarot-interviews/">Tarot Interviews</a> <span class="u-small">(2)</span></li></ul></section></div><footer class="footer"><a class="footer__logo" href="https://finbarre.com/">Finbarre Snarey</a><nav><ul class="footer__nav"><li class="footer__nav-item"><a href="https://www.instagram.com/finbarre" target="_blank">Instagram</a></li><li class="footer__nav-item"><span>|</span></li><li class="footer__nav-item"><a href="https://bsky.app/profile/finbarre.com" target="_blank">Bluesky</a></li><li class="footer__nav-item"><span>|</span></li><li class="footer__nav-item"><a href="https://www.linkedin.com/in/finbarre/" target="_blank">LinkedIn</a></li><li class="footer__nav-item"><span>|</span></li><li class="footer__nav-item"><a href="https://www.imdb.com/name/nm17224867/?ref_&#x3D;nv_sr_srsg_1_tt_1_nm_6_in_0_q_finbarre" target="_self">IMDB</a></li><li class="footer__nav-item"><span>|</span></li><li class="footer__nav-item"><a href="mailto:hello@finbarre.com" target="_blank">Email</a></li></ul></nav><div class="footer__copyright"><p>© 2026 Finbarre Snarey. All rights reserved.</p></div></footer></div><script>window.publiiThemeMenuConfig = {    
+}</script></head><body class="page-template"><header class="topbar" id="js-header"><div class="topbar__inner"><a class="logo" href="https://finbarre.com/">Finbarre Snarey</a><nav class="navbar"><button class="navbar__toggle" aria-label="Menu" aria-haspopup="true" aria-expanded="false"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li><a href="https://finbarre.com/book-me/" target="_self">Book Me</a></li><li class="active"><a href="https://finbarre.com/about-finbarre-snarey/" target="_self">About</a></li><li><a href="https://finbarre.com/projects/" target="_self">Projects</a></li><li><a href="https://finbarre.com/journalism/">Journalism</a></li><li><a href="https://finbarre.com/tarot/">Tarot</a></li><li><a href="https://finbarre.com/testimonials/" target="_self">Testimonials</a></li><li><a href="https://finbarre.com/contact/" target="_self">Contact</a></li></ul></nav></div></header><div class="main-content"><div class="infobar"><div class="infobar__update">Last Updated: <time datetime="2026-05-28T09:57">May 28, 2026</time></div></div><main class="main page"><article class="content"><header class="u-header content__header"><h1>About</h1></header><div class="content__entry u-inner"><p data-start="59" data-end="288">Finbarre Snarey is often found in a meadow or just off the woodland path, taking pictures of insects with his phone. He collects and upcycles old technology, is a big fan of Art Nouveau, and his favourite flower is the dandelion.</p><p data-start="290" data-end="608">During his recovery from Covid, Finbarre began building creative projects to find his way back into the world. Tarot Interviews, Tarot DMs and the British Tarot Archive all grew from that time.</p><p data-start="610" data-end="708">Finbarre has been married to Nik Snarey for eighteen years. They have two children and three cats.</p><p>One day he will finish his book of poetry.</p><div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3"><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/20240812_111410.jpg" data-size="3024x3024"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/20240812_111410-thumbnail.jpg" alt="" width="768" height="768"></a></figure><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/20230803_112949~2.jpg" data-size="1533x1533"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/20230803_112949~2-thumbnail.jpg" alt="" width="768" height="768"></a></figure><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/IMG_20240527_170114_109.jpg" data-size="1925x1925"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/IMG_20240527_170114_109-thumbnail.jpg" alt="" width="768" height="768"></a></figure><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/IMG_20250620_150027_832.webp" data-size="2084x2084"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/IMG_20250620_150027_832-thumbnail.webp" alt="" width="768" height="768"></a></figure><figure class="gallery__item"><a href="https://finbarre.com/media/posts/11/gallery/original_bc6df9c1-5c8e-46fb-85d7-c788abc7fe16_PXL_20260426_131730562.MACRO_FOCUS-2.jpg" data-size="1225x1226"><img loading="lazy" src="https://finbarre.com/media/posts/11/gallery/original_bc6df9c1-5c8e-46fb-85d7-c788abc7fe16_PXL_20260426_131730562.MACRO_FOCUS-2-thumbnail.jpg" alt="" width="768" height="769"></a></figure></div></div></div></article></main><div class="sidebar"><section class="box featured"><h3 class="box__title">Featured</h3><ul class="featured__container"><li class="featured__item"><a href="https://finbarre.com/ud-made-a-mug-out-of-me/" class="featured__image-link"><img src="https://finbarre.com/media/posts/14/responsive/UD-Screenshot-xs.png" class="lazyload" loading="lazy" alt="A mug featuring the phrase aleatory journalism, representing Finbarre Snarey’s chance-based interview method used in Tarot Interviews and Tarot DMs." height="4320" width="4320"></a><div><a href="https://finbarre.com/ud-made-a-mug-out-of-me/" class="featured__title">UD made a mug out of me</a></div></li><li class="featured__item"><a href="https://finbarre.com/back-from-bearded-theory-2026-with-a-tan/" class="featured__image-link"><img src="https://finbarre.com/media/posts/13/responsive/PXL_20260523_103456379.MP-xs.jpg" class="lazyload" loading="lazy" alt="Finbarre Snarey’s green Bearded Theory 2026 press wristband for Tarot Interviews, photographed in front of the festival main stage on a sunny weekend in Derbyshire." height="2833" width="2833"></a><div><a href="https://finbarre.com/back-from-bearded-theory-2026-with-a-tan/" class="featured__title">Back from Bearded Theory 2026. With a tan!</a></div></li><li class="featured__item"><a href="https://finbarre.com/bearded-theory/" class="featured__image-link"><img src="https://finbarre.com/media/posts/2/responsive/BT26-ANNC2-A3-scaled-xs.jpg" class="lazyload" loading="lazy" alt="The official poster for the 2026 Bearded Theory festival" height="2560" width="2560"></a><div><a href="https://finbarre.com/bearded-theory/" class="featured__title">Tarot Interviews comes to Bearded Theory</a></div></li></ul></section><section class="box"><h3 class="box__title">Tags</h3><ul class="tags"><li><a href="https://finbarre.com/tags/aleatory/">Aleatory</a> <span class="u-small">(1)</span></li><li><a href="https://finbarre.com/tags/festival/">Festival</a> <span class="u-small">(2)</span></li><li><a href="https://finbarre.com/tags/merchandise/">Merchandise</a> <span class="u-small">(1)</span></li><li><a href="https://finbarre.com/tags/on-location/">On location</a> <span class="u-small">(2)</span></li><li><a href="https://finbarre.com/tags/tarot-interviews/">Tarot Interviews</a> <span class="u-small">(2)</span></li></ul></section></div><footer class="footer"><a class="footer__logo" href="https://finbarre.com/">Finbarre Snarey</a><nav><ul class="footer__nav"><li class="footer__nav-item"><a href="https://www.instagram.com/finbarre" target="_blank">Instagram</a></li><li class="footer__nav-item"><span>|</span></li><li class="footer__nav-item"><a href="https://bsky.app/profile/finbarre.com" target="_blank">Bluesky</a></li><li class="footer__nav-item"><span>|</span></li><li class="footer__nav-item"><a href="https://www.linkedin.com/in/finbarre/" target="_blank">LinkedIn</a></li><li class="footer__nav-item"><span>|</span></li><li class="footer__nav-item"><a href="https://www.imdb.com/name/nm17224867/?ref_&#x3D;nv_sr_srsg_1_tt_1_nm_6_in_0_q_finbarre" target="_self">IMDB</a></li><li class="footer__nav-item"><span>|</span></li><li class="footer__nav-item"><a href="mailto:hello@finbarre.com" target="_blank">Email</a></li></ul></nav><div class="footer__copyright"><p>© 2026 Finbarre Snarey. All rights reserved.</p></div></footer></div><script>window.publiiThemeMenuConfig = {    
         mobileMenuMode: 'sidebar',
         animationSpeed: 300,
         submenuWidth: 'auto',
