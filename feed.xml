@@ -3,12 +3,38 @@
     <title>Finbarre Snarey</title>
     <link href="https://finbarre.com/feed.xml" rel="self" />
     <link href="https://finbarre.com" />
-    <updated>2026-05-27T13:48:02+01:00</updated>
+    <updated>2026-06-05T08:33:13+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://finbarre.com</id>
 
+    <entry>
+        <title>Firelight at Wyldwood</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://finbarre.com/firelight-at-wyldwood/"/>
+        <id>https://finbarre.com/firelight-at-wyldwood/</id>
+        <media:content url="https://finbarre.com/media/posts/15/original_369ba14f-d057-45e3-a783-af773b5a6dee_PXL_20260530_205702985.jpg" medium="image" />
+            <category term="On location"/>
+            <category term="Festival"/>
+
+        <updated>2026-06-05T08:33:05+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://finbarre.com/media/posts/15/original_369ba14f-d057-45e3-a783-af773b5a6dee_PXL_20260530_205702985.jpg" alt="Finbarre Snarey training in fire performance at Wyldwood Renaissance Festival, holding flaming props against a dark evening sky." />
+                    The fire performers from the Whitby Krampus Run gave me a beginners class at Wyldwood Renaissance Festival! Spectacular fun and a wonderful way to light the gathering dusk. An audio postcard from the festival will be coming to Tarot Interviews in the coming weeks, featuring sounds&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://finbarre.com/media/posts/15/original_369ba14f-d057-45e3-a783-af773b5a6dee_PXL_20260530_205702985.jpg" class="type:primaryImage" alt="Finbarre Snarey training in fire performance at Wyldwood Renaissance Festival, holding flaming props against a dark evening sky." /></p>
+                <p data-start="405" data-end="589">The fire performers from the <a href="https://www.facebook.com/WhitbyKrampusRun/" target="_blank" rel="noopener noreferrer">Whitby Krampus Run</a> gave me a beginners class at <a href="https://www.wyldwoodrenfest.co.uk/" target="_blank" rel="noopener noreferrer">Wyldwood Renaissance Festival! </a>Spectacular fun and a wonderful way to light the gathering dusk.</p>
+<p data-start="591" data-end="725" data-is-last-node="" data-is-only-node="">An audio postcard from the festival will be coming to Tarot Interviews in the coming weeks, featuring sounds and stories from the field.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>UD made a mug out of me</title>
         <author>
