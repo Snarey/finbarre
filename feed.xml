@@ -3,12 +3,47 @@
     <title>Finbarre Snarey</title>
     <link href="https://finbarre.com/feed.xml" rel="self" />
     <link href="https://finbarre.com" />
-    <updated>2026-07-05T21:19:15+01:00</updated>
+    <updated>2026-07-06T19:38:32+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://finbarre.com</id>
 
+    <entry>
+        <title>70+ Guests?</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://finbarre.com/guests/"/>
+        <id>https://finbarre.com/guests/</id>
+        <media:content url="https://finbarre.com/media/posts/19/Cest-Touter.png" medium="image" />
+            <category term="Tarot Interviews"/>
+            <category term="Tarot DMs"/>
+            <category term="Guests"/>
+
+        <updated>2026-07-06T19:38:23+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://finbarre.com/media/posts/19/Cest-Touter.png" alt="Collage of portraits, artwork and book images representing people featured on Tarot Interviews and Tarot DMs, including writers, artists, performers, musicians, tarot creators and cultural contributors." />
+                    It is not every day you get to pause and reflect on how far a creative project has come,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://finbarre.com/media/posts/19/Cest-Touter.png" class="type:primaryImage" alt="Collage of portraits, artwork and book images representing people featured on Tarot Interviews and Tarot DMs, including writers, artists, performers, musicians, tarot creators and cultural contributors." /></p>
+                <p data-path-to-node="15">It is not every day you get to pause and reflect on how far a creative project has come, but today is one of those days! </p>
+<p data-path-to-node="16">I recently sat down to update the guest directory for my projects, <i data-path-to-node="16" data-index-in-node="67">Tarot Interviews</i> and <i data-path-to-node="16" data-index-in-node="88">Tarot DMs</i>, and realized we’ve hit a pretty wonderful milestone: <strong data-path-to-node="16" data-index-in-node="152">we have officially featured over 70 guests and contributors.</strong> For those new to the project, the premise is simple but revealing: a three-card, three-question format used to interview writers, artists, musicians, and cultural figures.</p>
+<p data-path-to-node="17">Over the course of 70+ interviews, this format has adapted into two spaces:</p>
+<ul>
+<li data-path-to-node="18,0,0"><strong data-path-to-node="18,0,0" data-index-in-node="0">Tarot Interviews:</strong> A traditional audio podcast format.</li>
+<li data-path-to-node="18,1,0"><strong data-path-to-node="18,1,0" data-index-in-node="0">Tarot DMs:</strong> Written interviews conducted entirely through messaging apps.</li>
+</ul>
+<p data-path-to-node="19">The most rewarding part of this journey has been the sheer diversity of the people who have agreed to sit down (or log on) and pull cards with me. We have spoken with internationally bestselling authors like Joanne Harris and Adrian Tchaikovsky, brilliant narrative designers, historians, and musicians. We have even taken the format on the road, interviewing festival crew members, artisan blacksmiths, and performers right in the middle of muddy fields!</p>
+<p data-path-to-node="20">A huge thank you to all the creative minds who have trusted me with their time and their stories.</p>
+<p data-path-to-node="21">If you want to see the full, newly updated list of guests, or check out the format for yourself, you can find the directory over on https://tarotinterviews.com/previous-guests</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Free 2026 Community Partner Spots</title>
         <author>
