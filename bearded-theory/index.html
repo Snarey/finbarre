@@ -31,7 +31,7 @@
       "url": "https://finbarre.com/",
       "name": "Finbarre Snarey",
       "headline": "Finbarre Snarey",
-      "description": "Finbarre Snarey is an arts and culture journalist, producer and creative technologist behind Tarot Interviews, Tarot DMs and the British Tarot Archive.",
+      "description": "Finbarre Snarey is an arts and culture journalist, producer and creative technologist behind Tarot Interviews, Tarot DMs, CardMeanings.com and the British Tarot Archive.",
       "dateCreated": "2026-05-18T19:14:00+01:00",
       "dateModified": "2026-05-19T13:13:00+01:00",
       "image": {
@@ -61,7 +61,7 @@
       "image": {
         "@id": "https://finbarre.com/#portrait"
       },
-      "description": "Finbarre Snarey is a UK-based arts and culture journalist, producer and creative technologist based in Beeston, Nottinghamshire. He is the creator of Tarot Interviews, Tarot DMs and the British Tarot Archive, and coined the term aleatory journalism for interview and reporting methods shaped by chance, structured prompts and creative constraints.",
+      "description": "Finbarre Snarey is a UK-based arts and culture journalist, producer and creative technologist based in Beeston, Nottinghamshire. He is the creator of Tarot Interviews, Tarot DMs and CardMeanings.com, founder of the British Tarot Archive, and coined the term aleatory journalism for interview and reporting methods shaped by chance, structured prompts and creative constraints.",
       "jobTitle": [
         "Arts and Culture Journalist",
         "Producer",
@@ -91,6 +91,7 @@
       "sameAs": [
         "https://tarotinterviews.com/",
         "https://tarotdms.com/",
+        "https://cardmeanings.com/",
         "https://britishtarotarchive.org/",
         "https://bsky.app/profile/finbarre.com",
         "https://www.instagram.com/finbarre/",
@@ -150,6 +151,9 @@
         },
         {
           "@id": "https://www.pressloft.com/app/profile/60857/finbarre-snarey#profile"
+        },
+        {
+          "@id": "https://cardmeanings.com/#website"
         }
       ]
     },
@@ -260,7 +264,7 @@
       "@id": "https://finbarre.com/projects/#webpage",
       "url": "https://finbarre.com/projects/",
       "name": "Projects - Finbarre Snarey",
-      "description": "Projects by Finbarre Snarey, including Tarot Interviews, Tarot DMs, the British Tarot Archive and PodcastGuest.org.",
+      "description": "Projects by Finbarre Snarey, including Tarot Interviews, Tarot DMs, CardMeanings.com, the British Tarot Archive and PodcastGuest.org.",
       "about": {
         "@id": "https://finbarre.com/#person"
       },
@@ -270,6 +274,9 @@
         },
         {
           "@id": "https://tarotdms.com/#website"
+        },
+        {
+          "@id": "https://cardmeanings.com/#website"
         },
         {
           "@id": "https://britishtarotarchive.org/#website"
@@ -534,6 +541,9 @@
           "@id": "https://tarotdms.com/#website"
         },
         {
+          "@id": "https://cardmeanings.com/#website"
+        },
+        {
           "@id": "https://britishtarotarchive.org/#website"
         }
       ],
@@ -666,6 +676,84 @@
       },
       "issn": "2978-8935",
       "inLanguage": "en-GB"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://cardmeanings.com/#website",
+      "url": "https://cardmeanings.com/",
+      "name": "Card Meanings",
+      "alternateName": "CardMeanings.com",
+      "description": "A quick-reference guide to all 78 Rider-Waite-Smith tarot cards, combining traditional symbolism, upright and reversed meanings, and Finbarre Snarey's contemporary interpretations.",
+      "image": {
+        "@id": "https://cardmeanings.com/#website-image"
+      },
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "copyrightHolder": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "copyrightYear": 2026,
+      "about": {
+        "@id": "https://cardmeanings.com/#rider-waite-smith-tarot"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://cardmeanings.com/#website-image",
+      "url": "https://cardmeanings.com/media/website/favicon.png",
+      "contentUrl": "https://cardmeanings.com/media/website/favicon.png",
+      "caption": "CardMeanings.com moon emblem"
+    },
+    {
+      "@type": [
+        "CollectionPage",
+        "WebPage"
+      ],
+      "@id": "https://cardmeanings.com/#homepage",
+      "url": "https://cardmeanings.com/",
+      "name": "Rider-Waite-Smith Tarot Card Meanings",
+      "headline": "The Rider-Waite-Smith Tarot",
+      "description": "Explore traditional symbolism, upright and reversed meanings, and contemporary interpretations for all 78 Rider-Waite-Smith tarot cards.",
+      "isPartOf": {
+        "@id": "https://cardmeanings.com/#website"
+      },
+      "author": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "about": {
+        "@id": "https://cardmeanings.com/#rider-waite-smith-tarot"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "@id": "https://cardmeanings.com/#tarot-card-index",
+        "name": "The 78 Rider-Waite-Smith Tarot Cards",
+        "description": "A browsable collection of all 78 Rider-Waite-Smith tarot card guides.",
+        "numberOfItems": 78,
+        "itemListOrder": "https://schema.org/ItemListOrderAscending"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://cardmeanings.com/#rider-waite-smith-tarot",
+      "name": "Rider-Waite-Smith Tarot",
+      "alternateName": [
+        "RWS Tarot",
+        "Rider-Waite-Smith deck"
+      ],
+      "description": "A set of 78 tarot cards illustrated by Pamela Colman Smith and first published with guidance by A. E. Waite.",
+      "url": "https://cardmeanings.com/"
     },
     {
       "@type": "WebSite",
