@@ -1006,7 +1006,12 @@
                   this.classList.add('is-loaded');
                }, false);
          }
-      }</script><script src="https://finbarre.com/media/plugins/pagePrefetching/quicklink.umd.js"></script><script>window.addEventListener('load', () => {
+      }</script><script type="text/javascript">(function(w, d, s, u) {
+		w.RocketChat = function(c) { w.RocketChat._.push(c) }; w.RocketChat._ = []; w.RocketChat.url = u;
+		var h = d.getElementsByTagName(s)[0], j = d.createElement(s);
+		j.async = true; j.src = 'https://marble-ammonite.pikapod.net/livechat/rocketchat-livechat.min.js?_=201903270000';
+		h.parentNode.insertBefore(j, h);
+	})(window, document, 'script', 'https://marble-ammonite.pikapod.net/livechat');</script><script src="https://finbarre.com/media/plugins/pagePrefetching/quicklink.umd.js"></script><script>window.addEventListener('load', () => {
 					quicklink.listen({
 						prerender: false,
 						el: document.querySelector('body'),
