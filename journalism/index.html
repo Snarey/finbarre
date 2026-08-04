@@ -31,7 +31,7 @@
       "url": "https://finbarre.com/",
       "name": "Finbarre Snarey",
       "headline": "Finbarre Snarey",
-      "description": "Finbarre Snarey is an arts and culture journalist, producer and creative technologist behind Tarot Interviews, Tarot DMs, One Tarot Card, CardMeanings.com and the British Tarot Archive.",
+      "description": "Finbarre Snarey is an arts and culture journalist, producer and creative technologist behind Tarot Interviews, Tarot DMs, One Tarot Card, CardMeanings.com, the British Tarot Archive and Tarot Amnesty.",
       "dateCreated": "2026-05-18T19:14:00+01:00",
       "dateModified": "2026-05-19T13:13:00+01:00",
       "image": {
@@ -61,7 +61,7 @@
       "image": {
         "@id": "https://finbarre.com/#portrait"
       },
-      "description": "Finbarre Snarey is a UK-based arts and culture journalist, producer and creative technologist based in Beeston, Nottinghamshire. He is the creator of Tarot Interviews, Tarot DMs, One Tarot Card and CardMeanings.com, founder of the British Tarot Archive, and coined the term aleatory journalism for interview and reporting methods shaped by chance, structured prompts and creative constraints.",
+      "description": "Finbarre Snarey is a UK-based arts and culture journalist, producer and creative technologist based in Beeston, Nottinghamshire. He is the creator of Tarot Interviews, Tarot DMs, One Tarot Card and CardMeanings.com, founder of the British Tarot Archive and Tarot Amnesty, and coined the term aleatory journalism for interview and reporting methods shaped by chance, structured prompts and creative constraints.",
       "jobTitle": [
         "Arts and Culture Journalist",
         "Producer",
@@ -232,7 +232,7 @@
       "@id": "https://finbarre.com/projects/#webpage",
       "url": "https://finbarre.com/projects/",
       "name": "Projects - Finbarre Snarey",
-      "description": "Projects by Finbarre Snarey, including Tarot Interviews, Tarot DMs, One Tarot Card, CardMeanings.com, the British Tarot Archive and PodcastGuest.org.",
+      "description": "Projects by Finbarre Snarey, including Tarot Interviews, Tarot DMs, One Tarot Card, CardMeanings.com, the British Tarot Archive, Tarot Amnesty and PodcastGuest.org.",
       "about": [
         {
           "@id": "https://finbarre.com/#person"
@@ -251,6 +251,9 @@
         },
         {
           "@id": "https://britishtarotarchive.org/#website"
+        },
+        {
+          "@id": "https://tarotamnesty.org/#website"
         },
         {
           "@id": "https://podcastguest.org/#website"
@@ -609,6 +612,9 @@
         },
         {
           "@id": "https://britishtarotarchive.org/#website"
+        },
+        {
+          "@id": "https://tarotamnesty.org/#website"
         }
       ],
       "isPartOf": {
@@ -909,6 +915,98 @@
       "sameAs": [
         "https://britishtarotarchive.org/"
       ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://tarotamnesty.org/#website",
+      "url": "https://tarotamnesty.org/",
+      "name": "Tarot Amnesty",
+      "description": "Tarot Amnesty is an independent voluntary, not-for-profit community project founded by Finbarre Snarey. It receives unwanted tarot and oracle decks and gives them freely to new readers at community tarot events. Decks are never bought or sold.",
+      "creator": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "publisher": {
+        "@id": "https://tarotamnesty.org/#project"
+      },
+      "mainEntity": {
+        "@id": "https://tarotamnesty.org/#project"
+      },
+      "about": [
+        {
+          "@id": "https://tarotamnesty.org/#project"
+        },
+        {
+          "@id": "https://tarotamnesty.org/#deck-rehoming-service"
+        }
+      ],
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Project",
+      "@id": "https://tarotamnesty.org/#project",
+      "url": "https://tarotamnesty.org/",
+      "name": "Tarot Amnesty",
+      "description": "Tarot Amnesty is an independent voluntary, not-for-profit community project founded by Finbarre Snarey. It receives unwanted tarot and oracle decks and gives them freely to new readers at community tarot events. Decks are never bought or sold.",
+      "founder": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "foundingDate": "2026",
+      "foundingLocation": {
+        "@type": "Place",
+        "name": "Beeston, Nottinghamshire, United Kingdom",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Beeston",
+          "addressRegion": "Nottinghamshire",
+          "addressCountry": "GB"
+        }
+      },
+      "location": {
+        "@type": "Place",
+        "name": "Beeston, Nottinghamshire, United Kingdom"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "United Kingdom"
+      },
+      "slogan": "Give your deck another reading",
+      "keywords": [
+        "Unwanted tarot decks",
+        "Inherited tarot decks",
+        "Incomplete tarot decks",
+        "Tarot deck donation",
+        "Tarot deck rehoming",
+        "Oracle deck donation",
+        "Community tarot events",
+        "Free redistribution of tarot and oracle decks"
+      ],
+      "subjectOf": {
+        "@id": "https://tarotamnesty.org/#website"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://tarotamnesty.org/#deck-rehoming-service",
+      "url": "https://tarotamnesty.org/offer-a-deck/",
+      "name": "Free tarot and oracle deck rehoming",
+      "alternateName": "Offer an unwanted tarot or oracle deck",
+      "description": "A free, voluntary service through which people can offer unwanted, inherited, incomplete or well-loved tarot and oracle decks. Accepted decks are received with care and later given freely to new readers at community tarot events. Tarot Amnesty does not buy or sell decks.",
+      "serviceType": "Voluntary, not-for-profit rehoming of unwanted tarot and oracle decks",
+      "provider": {
+        "@id": "https://tarotamnesty.org/#project"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "United Kingdom"
+      },
+      "audience": {
+        "@type": "Audience",
+        "audienceType": "People wishing to pass on an unwanted, inherited, incomplete or well-loved tarot or oracle deck"
+      },
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "https://tarotamnesty.org/offer-a-deck/"
+      }
     },
     {
       "@type": "WebSite",
