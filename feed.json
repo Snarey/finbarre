@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://finbarre.com/tarot-interviews-podcast-breaks-even/",
+            "url": "https://finbarre.com/tarot-interviews-podcast-breaks-even/",
+            "title": "Tarot Interviews Podcast Breaks Even",
+            "summary": "Only 1% of podcasts launched are estimated to reach break-even or better. My Tarot Interviews podcast has now done&hellip;",
+            "content_html": "<p>Only 1% of podcasts launched are estimated to reach break-even or better.</p>\n<p>My <a href=\"https://tarotinterviews.com\">Tarot Interviews</a> podcast has now done that in eighteen months, recovering its original equipment costs.</p>\n<p>Now, this does not include my time, but it is still a milestone for an independently produced podcast using an experimental format in a specialist field.</p>\n<p>Thank you to everyone who helped it get here!</p>\n<p>Take a listen by visiting <a href=\"https://tarotinterviews.com\">https://tarotinterviews.com</a></p>",
+            "image": "https://finbarre.com/media/posts/21/TAROT-16-2.png",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+                   "milestone",
+                   "funding",
+                   "Tarot Interviews"
+            ],
+            "date_published": "2026-08-06T18:50:45+01:00",
+            "date_modified": "2026-08-06T18:50:58+01:00"
+        },
+        {
             "id": "https://finbarre.com/guests/",
             "url": "https://finbarre.com/guests/",
             "title": "Previous Guests",

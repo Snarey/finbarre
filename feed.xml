@@ -3,12 +3,42 @@
     <title>Finbarre Snarey</title>
     <link href="https://finbarre.com/feed.xml" rel="self" />
     <link href="https://finbarre.com" />
-    <updated>2026-07-07T07:42:43+01:00</updated>
+    <updated>2026-08-06T18:50:58+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://finbarre.com</id>
 
+    <entry>
+        <title>Tarot Interviews Podcast Breaks Even</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://finbarre.com/tarot-interviews-podcast-breaks-even/"/>
+        <id>https://finbarre.com/tarot-interviews-podcast-breaks-even/</id>
+        <media:content url="https://finbarre.com/media/posts/21/TAROT-16-2.png" medium="image" />
+            <category term="milestone"/>
+            <category term="funding"/>
+            <category term="Tarot Interviews"/>
+
+        <updated>2026-08-06T18:50:45+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://finbarre.com/media/posts/21/TAROT-16-2.png" alt="The official logo of the Tarot Inteviews podcast by Finbarre Snarey" />
+                    Only 1% of podcasts launched are estimated to reach break-even or better. My Tarot Interviews podcast has now done&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://finbarre.com/media/posts/21/TAROT-16-2.png" class="type:primaryImage" alt="The official logo of the Tarot Inteviews podcast by Finbarre Snarey" /></p>
+                <p>Only 1% of podcasts launched are estimated to reach break-even or better.</p>
+<p>My <a href="https://tarotinterviews.com">Tarot Interviews</a> podcast has now done that in eighteen months, recovering its original equipment costs.</p>
+<p>Now, this does not include my time, but it is still a milestone for an independently produced podcast using an experimental format in a specialist field.</p>
+<p>Thank you to everyone who helped it get here!</p>
+<p>Take a listen by visiting <a href="https://tarotinterviews.com">https://tarotinterviews.com</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Previous Guests</title>
         <author>
