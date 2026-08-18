@@ -10,6 +10,26 @@
     },
     "items": [
         {
+            "id": "https://finbarre.com/valuing-the-tarot-interviews-catalog/",
+            "url": "https://finbarre.com/valuing-the-tarot-interviews-catalog/",
+            "title": "Valuing the Tarot Interviews Catalog",
+            "summary": "When you build something entirely by hand and without a safety net, you have to remind yourself of the&hellip;",
+            "content_html": "<p data-path-to-node=\"0\">When you build something entirely by hand and without a safety net, you have to remind yourself of the project's worth.</p>\n<p data-path-to-node=\"1\">I recently sat down to map out the true editorial media value across every single podcast episode and written feature across Tarot Interviews and Tarot DMs.</p>\n<p data-path-to-node=\"1\">Across more than 70 generous contributions, I weighed three things: what it would cost to commercially produce this work, the real effort of securing each guest, and the actual reach of the audience that showed up to listen and read.</p>\n<p data-path-to-node=\"2\">The archive at a glance</p>\n<ul>\n<li data-path-to-node=\"3,0,0\">Combined Output: £57,226 (conservative range: £31,712 to £95,155)</li>\n<li data-path-to-node=\"3,1,0\">Tarot Interviews: £20,451</li>\n<li data-path-to-node=\"3,2,0\">Tarot DMs: £36,775</li>\n</ul>\n<p data-path-to-node=\"4\">This figure represents the raw craft, hours, and distribution effort required to bring this entire archive into the world.</p>\n<p data-path-to-node=\"5\">The people who inhabit this space make it so special. Literary powerhouses like Joanne Harris, Adrian Tchaikovsky, and Lauren Beukes share the exact same floor space with underground musicians, visual artists, academics, stage performers, and festival regulars. Tarot DMs carried a massive share of this footprint, with individual features touching anywhere between 4,000 and 60,000 readers.</p>\n<p data-path-to-node=\"6\">What we give back to our guests</p>\n<ul>\n<li data-path-to-node=\"7,0,0\">Per Guest Feature: £829 avg in equivalent promotional and editorial value</li>\n<li data-path-to-node=\"7,1,0\">Weekly Output (4 features a week): £3,316</li>\n<li data-path-to-node=\"7,2,0\">Monthly Impact: £14,369</li>\n<li data-path-to-node=\"7,3,0\">Annual Impact: £172,432</li>\n</ul>\n<p data-path-to-node=\"8\">Every person who sits down for an interview receives a permanent piece of original media that stays online, alongside the advertising-equivalent weight of its audience reach.</p>\n<p data-path-to-node=\"9\">Putting concrete numbers to this work gives us an undeniable baseline for future conversations about funding, sponsorship, and long-term partnerships.</p>\n<p data-path-to-node=\"10\">Counting all of this up makes me wonder where the Tarot Interviews project will be <strong>next year.</strong></p>",
+            "image": "https://finbarre.com/media/posts/22/Tarot-Value.png",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+                   "milestone",
+                   "funding",
+                   "community",
+                   "Tarot Interviews",
+                   "Tarot DMs"
+            ],
+            "date_published": "2026-08-18T21:41:07+01:00",
+            "date_modified": "2026-08-18T21:56:26+01:00"
+        },
+        {
             "id": "https://finbarre.com/tarot-interviews-podcast-breaks-even/",
             "url": "https://finbarre.com/tarot-interviews-podcast-breaks-even/",
             "title": "Tarot Interviews Joins Podcasting’s 1%",
@@ -104,9 +124,10 @@
                 "name": "Finbarre Snarey"
             },
             "tags": [
+                   "Finbarre"
             ],
             "date_published": "2026-05-18T19:14:24+01:00",
-            "date_modified": "2026-08-11T20:05:01+01:00"
+            "date_modified": "2026-08-18T21:42:21+01:00"
         }
     ]
 }

@@ -3,12 +3,60 @@
     <title>Finbarre Snarey</title>
     <link href="https://finbarre.com/feed.xml" rel="self" />
     <link href="https://finbarre.com" />
-    <updated>2026-08-11T20:05:01+01:00</updated>
+    <updated>2026-08-18T21:56:26+01:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://finbarre.com</id>
 
+    <entry>
+        <title>Valuing the Tarot Interviews Catalog</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://finbarre.com/valuing-the-tarot-interviews-catalog/"/>
+        <id>https://finbarre.com/valuing-the-tarot-interviews-catalog/</id>
+        <media:content url="https://finbarre.com/media/posts/22/Tarot-Value.png" medium="image" />
+            <category term="milestone"/>
+            <category term="funding"/>
+            <category term="community"/>
+            <category term="Tarot Interviews"/>
+            <category term="Tarot DMs"/>
+
+        <updated>2026-08-18T21:41:07+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://finbarre.com/media/posts/22/Tarot-Value.png" alt="An artisan sits at a wooden bench carving a pentacle into a yellow coin, with a vertical row of finished pentacles mounted on a post beside him." />
+                    When you build something entirely by hand and without a safety net, you have to remind yourself of the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://finbarre.com/media/posts/22/Tarot-Value.png" class="type:primaryImage" alt="An artisan sits at a wooden bench carving a pentacle into a yellow coin, with a vertical row of finished pentacles mounted on a post beside him." /></p>
+                <p data-path-to-node="0">When you build something entirely by hand and without a safety net, you have to remind yourself of the project's worth.</p>
+<p data-path-to-node="1">I recently sat down to map out the true editorial media value across every single podcast episode and written feature across Tarot Interviews and Tarot DMs.</p>
+<p data-path-to-node="1">Across more than 70 generous contributions, I weighed three things: what it would cost to commercially produce this work, the real effort of securing each guest, and the actual reach of the audience that showed up to listen and read.</p>
+<p data-path-to-node="2">The archive at a glance</p>
+<ul>
+<li data-path-to-node="3,0,0">Combined Output: £57,226 (conservative range: £31,712 to £95,155)</li>
+<li data-path-to-node="3,1,0">Tarot Interviews: £20,451</li>
+<li data-path-to-node="3,2,0">Tarot DMs: £36,775</li>
+</ul>
+<p data-path-to-node="4">This figure represents the raw craft, hours, and distribution effort required to bring this entire archive into the world.</p>
+<p data-path-to-node="5">The people who inhabit this space make it so special. Literary powerhouses like Joanne Harris, Adrian Tchaikovsky, and Lauren Beukes share the exact same floor space with underground musicians, visual artists, academics, stage performers, and festival regulars. Tarot DMs carried a massive share of this footprint, with individual features touching anywhere between 4,000 and 60,000 readers.</p>
+<p data-path-to-node="6">What we give back to our guests</p>
+<ul>
+<li data-path-to-node="7,0,0">Per Guest Feature: £829 avg in equivalent promotional and editorial value</li>
+<li data-path-to-node="7,1,0">Weekly Output (4 features a week): £3,316</li>
+<li data-path-to-node="7,2,0">Monthly Impact: £14,369</li>
+<li data-path-to-node="7,3,0">Annual Impact: £172,432</li>
+</ul>
+<p data-path-to-node="8">Every person who sits down for an interview receives a permanent piece of original media that stays online, alongside the advertising-equivalent weight of its audience reach.</p>
+<p data-path-to-node="9">Putting concrete numbers to this work gives us an undeniable baseline for future conversations about funding, sponsorship, and long-term partnerships.</p>
+<p data-path-to-node="10">Counting all of this up makes me wonder where the Tarot Interviews project will be <strong>next year.</strong></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tarot Interviews Joins Podcasting’s 1%</title>
         <author>
@@ -162,6 +210,7 @@
         </author>
         <link href="https://finbarre.com/finbarre-snarey/"/>
         <id>https://finbarre.com/finbarre-snarey/</id>
+            <category term="Finbarre"/>
 
         <updated>2026-05-18T19:14:24+01:00</updated>
             <summary type="html">
