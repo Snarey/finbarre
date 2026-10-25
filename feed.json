@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://finbarre.com/mcm-london-2026-cosplay-and-conversations/",
+            "url": "https://finbarre.com/mcm-london-2026-cosplay-and-conversations/",
+            "title": "MCM London 2026 Cosplay &amp; Conversations",
+            "summary": "A fantastic couple of days at MCM London Comic Con! I attended as press meeting some wonderful cosplayers, creators,&hellip;",
+            "content_html": "<p>A fantastic couple of days at MCM London Comic Con!</p>\n<p>I attended as press meeting some wonderful cosplayers, creators, artists and performers, and recording interviews for <em>Tarot Interviews</em>.</p>\n<p>I also brought along TAROTRON 2000, who proved surprisingly popular and made quite a few new friends!</p>\n<p>I've started sharing photographs from the weekend, with more interviews and coverage to follow over the coming weeks.</p>\n<p>A huge thank you to everyone who stopped to chat, posed for a photograph or agreed to be interviewed. It was a pleasure meeting you all.</p>",
+            "image": "https://finbarre.com/media/posts/28/PXL_20261024_121643224.MP.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+                   "Tarotron 2000",
+                   "Tarot Interviews",
+                   "On location"
+            ],
+            "date_published": "2026-10-25T18:22:14+00:00",
+            "date_modified": "2026-10-25T18:22:14+00:00"
+        },
+        {
             "id": "https://finbarre.com/lets-connect-at-mcm-london-comic-con-this-weekend/",
             "url": "https://finbarre.com/lets-connect-at-mcm-london-comic-con-this-weekend/",
             "title": "Let&#x27;s Connect at MCM London Comic Con This Weekend",
@@ -161,23 +179,6 @@
             ],
             "date_published": "2026-06-14T18:36:25+01:00",
             "date_modified": "2026-06-16T18:15:00+01:00"
-        },
-        {
-            "id": "https://finbarre.com/ud-made-a-mug-out-of-me/",
-            "url": "https://finbarre.com/ud-made-a-mug-out-of-me/",
-            "title": "Urban Dictionary made a mug out of me",
-            "summary": "I discovered that Urban Dictionary have picked up on my coining of \"aleatory journalism\" recently and... well, this now&hellip;",
-            "content_html": "<p>I discovered that Urban Dictionary have picked up on my coining of \"<a href=\"https://finbarre.com/journalism/\" target=\"_blank\" rel=\"noopener noreferrer\">aleatory journalism</a>\" recently and... well, this now exists in all of its poorly formatted glory. What a time to be alive! I'm Mug Famous.</p>",
-            "image": "https://finbarre.com/media/posts/14/UD-Screenshot.png",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Merchandise",
-                   "Aleatory"
-            ],
-            "date_published": "2026-05-27T13:48:02+01:00",
-            "date_modified": "2026-07-06T19:43:07+01:00"
         }
     ]
 }
