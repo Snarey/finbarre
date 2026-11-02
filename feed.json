@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://finbarre.com/speaking-about-pixie-at-tate-britain/",
+            "url": "https://finbarre.com/speaking-about-pixie-at-tate-britain/",
+            "title": "Speaking about Pixie at Tate Britain",
+            "summary": "A rather special Friday! I had the pleasure of giving a talk, The Pre-Raphaelites and Pixie: Pamela Colman Smith&hellip;",
+            "content_html": "<p data-pm-slice=\"1 1 []\">A rather special Friday! I had the pleasure of giving a talk, <em>The Pre-Raphaelites and Pixie: Pamela Colman Smith and the Art of Tarot</em>, exploring the artistic and theatrical world that helped shape the Rider-Waite-Smith tarot deck.</p>\n<p>I traced Smith's connections to the Pre-Raphaelites through figures including Ellen Terry, Edward Burne-Jones and Florence Farr, looking at how theatre, illustration and the people around her may have influenced some of the most recognisable images in tarot. Fascinating to bring together my research into Pamela Colman Smith's life, her artistic influences and the possible identities of the people she depicted in the cards.</p>\n<p>As someone who has spent decades with the cards, standing at Tate Britain and talking about Pixie and her extraordinary work was a privilege.</p>",
+            "image": "https://finbarre.com/media/posts/30/PXL_20261030_085140981~2.jpg",
+            "author": {
+                "name": "Finbarre Snarey"
+            },
+            "tags": [
+                   "Research"
+            ],
+            "date_published": "2026-11-02T09:21:38+00:00",
+            "date_modified": "2026-11-02T09:21:38+00:00"
+        },
+        {
             "id": "https://finbarre.com/behind-the-scenes-at-my-first-comic-con/",
             "url": "https://finbarre.com/behind-the-scenes-at-my-first-comic-con/",
             "title": "Behind the Scenes at My First Comic Con",
@@ -166,22 +182,6 @@
             ],
             "date_published": "2026-07-06T19:38:23+01:00",
             "date_modified": "2026-07-07T07:42:43+01:00"
-        },
-        {
-            "id": "https://finbarre.com/free-2026-community-partner-spots/",
-            "url": "https://finbarre.com/free-2026-community-partner-spots/",
-            "title": "Free 2026 Community Partner Spots",
-            "summary": "Tarot Interviews is opening a small number of free community partner spots for tarot, folklore, heritage, arts and culture&hellip;",
-            "content_html": "<p class=\"wp-block-paragraph\">Tarot Interviews is opening a small number of free community partner spots for tarot, folklore, heritage, arts and culture organizations.</p>\n<p class=\"wp-block-paragraph\">Selected partners can share a finished 30 second audio message with Tarot Interviews listeners. <strong>There is no fee</strong>. In return, I ask partners to help spread the word with an Instagram follow, social post, tag or link where possible.</p>\n<p class=\"wp-block-paragraph\">UK-based projects, podcasts and cultural or heritage work may be prioritised, but international submissions are very welcome.</p>\n<p class=\"wp-block-paragraph\">Please send finished audio only, as a WAV or high quality MP3.</p>\n<p class=\"wp-block-paragraph\">Spots are limited and all submissions will be reviewed before approval.</p>\n<p class=\"wp-block-paragraph\"><a href=\"https://docs.google.com/forms/d/1Y4rtCPAuG6KRVYgUf0xvYJ9J7lF7l9G0AAioaPEqFt4/edit\">Apply Here</a></p>",
-            "image": "https://finbarre.com/media/posts/17/PXL_20260607_144122581-1.jpg",
-            "author": {
-                "name": "Finbarre Snarey"
-            },
-            "tags": [
-                   "Tarot Interviews"
-            ],
-            "date_published": "2026-06-27T17:46:20+01:00",
-            "date_modified": "2026-07-05T21:19:15+01:00"
         }
     ]
 }
