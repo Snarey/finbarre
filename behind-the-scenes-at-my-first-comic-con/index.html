@@ -24,7 +24,7 @@
         ],
         "url": "https://finbarre.com/",
         "image": "https://finbarre.com/media/posts/1/Finbarre-Snarey.jpg",
-        "description": "Finbarre Snarey is a Nottinghamshire-based arts and culture journalist, producer, tarot researcher and public speaker. He is the founder of the British Tarot Archive and creator of Tarot Interviews. His work explores tarot as cultural history and living heritage, interviewing and creative technology. He has presented his tarot research at Goldsmiths, University of London.",
+        "description": "Finbarre Snarey is a Nottinghamshire-based arts and culture journalist, producer, tarot researcher and public speaker. He is the founder of the British Tarot Archive and creator of Tarot Interviews. His work explores tarot as cultural history and living heritage, interviewing and creative technology. He has presented his tarot research at Tate Britain, at the Society of Antiquaries of London, and at Tarot Cultures, co-organised by research networks at Goldsmiths, University of London.",
         "jobTitle": [
           "Arts and Culture Journalist",
           "Producer",
@@ -115,11 +115,25 @@
           },
           {
             "@id": "https://www.forbes.com/sites/rdaniel-foster/2026/10/05/occult-halloween-decor-is-having-a-moment/#article"
+          },
+          {
+            "@id": "https://finbarre.com/speaking-about-pixie-at-tate-britain/#blogposting"
           }
         ],
         "owns": [
           {
             "@id": "https://finbarre.com/#tarotron-2000"
+          }
+        ],
+        "performerIn": [
+          {
+            "@id": "https://finbarre.com/#society-of-antiquaries-2026-talk"
+          },
+          {
+            "@id": "https://finbarre.com/#tate-britain-2026-talk"
+          },
+          {
+            "@id": "https://finbarre.com/#tarot-cultures-2026-talk"
           }
         ]
       },
@@ -183,6 +197,9 @@
         },
         {
           "@id": "https://finbarre.com/contact/#webpage"
+        },
+        {
+          "@id": "https://finbarre.com/speaking-about-pixie-at-tate-britain/#blogposting"
         }
       ]
     },
@@ -215,7 +232,7 @@
         "https://finbarre.com/about/",
         "https://finbarre.com/projects/",
         "https://finbarre.com/journalism/",
-        "https://finbarre.com/media/",
+        "https://finbarre.com/media-2/",
         "https://finbarre.com/tarot/",
         "https://finbarre.com/library/",
         "https://finbarre.com/testimonials/",
@@ -1126,16 +1143,210 @@
     },
     {
       "@type": "Event",
+      "@id": "https://finbarre.com/#tate-britain-2026-talk",
+      "name": "The Pre-Raphaelites and Pixie: Pamela Colman Smith and the Art of Tarot",
+      "description": "A talk by Finbarre Snarey on the artistic and theatrical influences on Pamela Colman Smith and the illustrations she created for the Rider-Waite-Smith tarot deck.",
+      "startDate": "2026-10-30",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": "Tate Britain",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressCountry": "GB"
+        }
+      },
+      "performer": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Pamela Colman Smith"
+        },
+        {
+          "@type": "Thing",
+          "name": "Pre-Raphaelitism"
+        },
+        {
+          "@type": "Thing",
+          "name": "Rider-Waite-Smith tarot"
+        }
+      ],
+      "subjectOf": {
+        "@id": "https://finbarre.com/speaking-about-pixie-at-tate-britain/#blogposting"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://finbarre.com/speaking-about-pixie-at-tate-britain/#blogposting",
+      "url": "https://finbarre.com/speaking-about-pixie-at-tate-britain/",
+      "headline": "Speaking about Pixie at Tate Britain",
+      "datePublished": "2026-11-02",
+      "author": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "about": {
+        "@id": "https://finbarre.com/#tate-britain-2026-talk"
+      },
+      "isPartOf": {
+        "@id": "https://finbarre.com/#website"
+      },
+      "mainEntityOfPage": "https://finbarre.com/speaking-about-pixie-at-tate-britain/",
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.sal.org.uk/#organization",
+      "url": "https://www.sal.org.uk/",
+      "name": "Society of Antiquaries of London"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.sal.org.uk/events/lines-of-enquiry/#webpage",
+      "url": "https://www.sal.org.uk/events/lines-of-enquiry/",
+      "name": "Lines of Enquiry: Graphic Arts and the Afterlives of Material Past",
+      "publisher": {
+        "@id": "https://www.sal.org.uk/#organization"
+      },
+      "mainEntity": {
+        "@id": "https://www.sal.org.uk/events/lines-of-enquiry/#event"
+      },
+      "mentions": [
+        {
+          "@id": "https://finbarre.com/#person"
+        },
+        {
+          "@id": "https://britishtarotarchive.org/#organization"
+        },
+        {
+          "@id": "https://finbarre.com/#society-of-antiquaries-2026-talk"
+        }
+      ],
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Event",
+      "@id": "https://www.sal.org.uk/events/lines-of-enquiry/#event",
+      "url": "https://www.sal.org.uk/events/lines-of-enquiry/",
+      "name": "Lines of Enquiry: Graphic Arts and the Afterlives of Material Past",
+      "description": "The Society of Antiquaries of London's 2026 Collections and Research Day, exploring prints, drawings and the study of material culture.",
+      "startDate": "2026-11-06T09:45:00+00:00",
+      "endDate": "2026-11-06T18:00:00+00:00",
+      "location": {
+        "@type": "Place",
+        "name": "Burlington House",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Piccadilly",
+          "postalCode": "W1J 0BE",
+          "addressLocality": "London",
+          "addressCountry": "GB"
+        }
+      },
+      "organizer": {
+        "@id": "https://www.sal.org.uk/#organization"
+      },
+      "mainEntityOfPage": {
+        "@id": "https://www.sal.org.uk/events/lines-of-enquiry/#webpage"
+      },
+      "subEvent": {
+        "@id": "https://finbarre.com/#society-of-antiquaries-2026-talk"
+      },
+      "recordedIn": {
+        "@id": "https://www.youtube.com/watch?v=uymvj8Sj5eY#video"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Event",
+      "@id": "https://finbarre.com/#society-of-antiquaries-2026-talk",
+      "name": "The Afterlife of a Pack: The Rider-Waite-Smith Tarot in Print and Use",
+      "description": "Finbarre Snarey presented British Tarot Archive research on how printing, packaging and handling have shaped the way the Rider-Waite-Smith deck is seen and used.",
+      "startDate": "2026-11-06",
+      "location": {
+        "@type": "Place",
+        "name": "Burlington House",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Piccadilly",
+          "postalCode": "W1J 0BE",
+          "addressLocality": "London",
+          "addressCountry": "GB"
+        }
+      },
+      "performer": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "superEvent": {
+        "@id": "https://www.sal.org.uk/events/lines-of-enquiry/#event"
+      },
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Rider-Waite-Smith tarot"
+        },
+        {
+          "@type": "Thing",
+          "name": "Print history"
+        },
+        {
+          "@type": "Thing",
+          "name": "Material culture"
+        }
+      ],
+      "recordedIn": {
+        "@id": "https://www.youtube.com/watch?v=uymvj8Sj5eY#video"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://www.youtube.com/watch?v=uymvj8Sj5eY#video",
+      "url": "https://www.youtube.com/watch?v=uymvj8Sj5eY",
+      "name": "Collections and Research Day: Lines of Enquiry | Part One",
+      "description": "The Society of Antiquaries of London's recording of the morning session of its 2026 Collections and Research Day, including Finbarre Snarey's talk on the Rider-Waite-Smith tarot.",
+      "embedUrl": "https://www.youtube.com/embed/uymvj8Sj5eY",
+      "thumbnailUrl": [
+        "https://i.ytimg.com/vi/uymvj8Sj5eY/hqdefault.jpg"
+      ],
+      "uploadDate": "2026-11-06",
+      "duration": "PT3H43M43S",
+      "publisher": {
+        "@id": "https://www.sal.org.uk/#organization"
+      },
+      "recordedAt": {
+        "@id": "https://www.sal.org.uk/events/lines-of-enquiry/#event"
+      },
+      "about": {
+        "@id": "https://www.sal.org.uk/events/lines-of-enquiry/#event"
+      },
+      "mentions": [
+        {
+          "@id": "https://finbarre.com/#person"
+        },
+        {
+          "@id": "https://britishtarotarchive.org/#organization"
+        },
+        {
+          "@id": "https://finbarre.com/#society-of-antiquaries-2026-talk"
+        }
+      ],
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Event",
       "@id": "https://finbarre.com/#tarot-cultures-2026-talk",
       "name": "Tarot Reading as Living Heritage: Documenting Contemporary Rider-Waite-Smith Practice in the UK",
-      "description": "A conference talk by Finbarre Snarey on tarot reading as living heritage and contemporary Rider-Waite-Smith practice in the UK.",
-      "startDate": "2026-06-12",
-      "endDate": "2026-06-13",
+      "description": "Finbarre Snarey's Tarot Cultures conference talk on contemporary Rider-Waite-Smith tarot reading as living heritage in the UK. The conference was co-organised by the Decadence, Magic(k), and Occult Network and the Magic Network at Goldsmiths.",
+      "startDate": "2026-06-13",
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "eventStatus": "https://schema.org/EventScheduled",
       "location": {
         "@type": "Place",
-        "name": "Goldsmiths, University of London",
+        "name": "COLAB Tower",
         "address": {
           "@type": "PostalAddress",
           "addressLocality": "London",
@@ -1165,7 +1376,8 @@
       ],
       "recordedIn": {
         "@id": "https://zenodo.org/records/20761345#creative-work"
-      }
+      },
+      "url": "https://bads.gold.ac.uk/tarotcultures"
     },
     {
       "@type": "CreativeWork",
@@ -1301,10 +1513,10 @@
     {
       "@type": "CollectionPage",
       "@id": "https://finbarre.com/media/#webpage",
-      "url": "https://finbarre.com/media/",
+      "url": "https://finbarre.com/media-2/",
       "name": "Media - Finbarre Snarey",
       "headline": "Media",
-      "description": "Media appearances, press coverage and selected journalism by Finbarre Snarey, including features in Forbes, The Guardian, Daily Mirror, Real Simple, Homes & Gardens, ZEIT Sprachen / Spotlight and Pleine Vie.",
+      "description": "Media appearances, press coverage and selected journalism by Finbarre Snarey, including work with The Guardian, Tyla, Forbes, Daily Mirror, Real Simple, Homes & Gardens, ZEIT Sprachen / Spotlight and Pleine Vie.",
       "dateModified": "2026-10-05",
       "about": {
         "@id": "https://finbarre.com/#person"
@@ -1316,6 +1528,12 @@
         "@id": "https://finbarre.com/#website"
       },
       "hasPart": [
+        {
+          "@id": "https://www.theguardian.com/travel/2026/oct/30/readers-favourite-spooky-places-uk-halloween#article"
+        },
+        {
+          "@id": "https://www.tyla.com/entertainment/tv-and-film/big-brother-uk-twinks-witch-explained-omar-argument-680195-20261006#article"
+        },
         {
           "@id": "https://www.forbes.com/sites/rdaniel-foster/2026/10/05/occult-halloween-decor-is-having-a-moment/#article"
         },
@@ -1346,6 +1564,64 @@
       ],
       "relatedLink": [
         "https://www.zeit-verlagsgruppe.de/produkte/spotlight/"
+      ],
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.theguardian.com/travel/2026/oct/30/readers-favourite-spooky-places-uk-halloween#article",
+      "url": "https://www.theguardian.com/travel/2026/oct/30/readers-favourite-spooky-places-uk-halloween",
+      "headline": "‘Expect goosebumps!’: to celebrate Halloween, readers choose the spookiest places in the UK",
+      "datePublished": "2026-10-30",
+      "publisher": {
+        "@type": "Organization",
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/"
+      },
+      "contributor": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "hasPart": {
+        "@type": "CreativeWork",
+        "@id": "https://www.theguardian.com/travel/2026/oct/30/readers-favourite-spooky-places-uk-halloween#finbarre-snarey-contribution",
+        "name": "Hollowed out tower in West Yorkshire",
+        "description": "Finbarre Snarey's reader contribution compares the ruins of St Thomas à Becket church in Heptonstall to the Tower tarot card.",
+        "author": {
+          "@id": "https://finbarre.com/#person"
+        },
+        "isPartOf": {
+          "@id": "https://www.theguardian.com/travel/2026/oct/30/readers-favourite-spooky-places-uk-halloween#article"
+        },
+        "inLanguage": "en-GB"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://www.tyla.com/entertainment/tv-and-film/big-brother-uk-twinks-witch-explained-omar-argument-680195-20261006#article",
+      "url": "https://www.tyla.com/entertainment/tv-and-film/big-brother-uk-twinks-witch-explained-omar-argument-680195-20261006",
+      "headline": "Big Brother argument sparks huge reaction as experts explain what it means to be a modern day witch",
+      "datePublished": "2026-10-06",
+      "description": "Tyla quotes Finbarre Snarey on the beliefs and practices associated with modern witchcraft.",
+      "author": {
+        "@type": "Person",
+        "name": "Madison Burgess"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Tyla",
+        "url": "https://www.tyla.com/"
+      },
+      "contributor": {
+        "@id": "https://finbarre.com/#person"
+      },
+      "mentions": [
+        {
+          "@id": "https://finbarre.com/#person"
+        },
+        {
+          "@id": "https://britishtarotarchive.org/#organization"
+        }
       ],
       "inLanguage": "en-GB"
     },
