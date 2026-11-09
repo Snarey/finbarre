@@ -3,12 +3,39 @@
     <title>Finbarre Snarey</title>
     <link href="https://finbarre.com/feed.xml" rel="self" />
     <link href="https://finbarre.com" />
-    <updated>2026-11-02T09:21:38+00:00</updated>
+    <updated>2026-11-09T18:46:38+00:00</updated>
     <author>
         <name>Finbarre Snarey</name>
     </author>
     <id>https://finbarre.com</id>
 
+    <entry>
+        <title>Rider-Waite-Smith Tarot at the Society of Antiquaries</title>
+        <author>
+            <name>Finbarre Snarey</name>
+        </author>
+        <link href="https://finbarre.com/rider-waite-smith-tarot-at-the-society-of-antiquaries/"/>
+        <id>https://finbarre.com/rider-waite-smith-tarot-at-the-society-of-antiquaries/</id>
+        <media:content url="https://finbarre.com/media/posts/31/PXL_20261108_140324454.jpg" medium="image" />
+            <category term="British Tarot Archive"/>
+
+        <updated>2026-11-09T18:42:33+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://finbarre.com/media/posts/31/PXL_20261108_140324454.jpg" alt="Finbarre Snarey’s Society of Antiquaries name badge rests on the Rider-Waite-Smith Sun card, partly covering the child on a white horse." />
+                    On 6 November 2026, I spoke at the Society of Antiquaries of London, a royal learned society, as founder&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://finbarre.com/media/posts/31/PXL_20261108_140324454.jpg" class="type:primaryImage" alt="Finbarre Snarey’s Society of Antiquaries name badge rests on the Rider-Waite-Smith Sun card, partly covering the child on a white horse." /></p>
+                <p>On 6 November 2026, I spoke at the Society of Antiquaries of London, a royal learned society, as founder and curator of the <a href="https://britishtarotarchive.org" target="_blank" rel="noopener noreferrer">British Tarot Archive</a>. My talk, <em>The Afterlife of a Pack: The Rider-Waite-Smith Tarot in Print and Use</em>, was part of the Society’s Collections and Research Day. As far as the Society’s publicly accessible records show, it was its first research presentation devoted to tarot <strong>in over a century!</strong></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://finbarre.com/media/posts/31/PXL_20261106_085232727~3-2.jpg" alt="Finbarre Snarey wearing a silver tarot-card pendant beneath the gold Society of Antiquaries lettering at Burlington House, London." width="3024" height="4032" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://finbarre.com/media/posts/31/responsive/PXL_20261106_085232727~3-2-xs.webp 300w ,https://finbarre.com/media/posts/31/responsive/PXL_20261106_085232727~3-2-sm.webp 480w ,https://finbarre.com/media/posts/31/responsive/PXL_20261106_085232727~3-2-md.webp 768w ,https://finbarre.com/media/posts/31/responsive/PXL_20261106_085232727~3-2-xl.webp 1200w ,https://finbarre.com/media/posts/31/responsive/PXL_20261106_085232727~3-2-xxl.webp 1600w ,https://finbarre.com/media/posts/31/responsive/PXL_20261106_085232727~3-2-xxxl.webp 2560w"></figure>
+<p>Thank you to the Society for inviting me to share this work at Burlington House.</p>
+<p><a href="https://www.sal.org.uk/events/lines-of-enquiry/">Read the full programme for Lines of Enquiry</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Speaking about Pixie at Tate Britain</title>
         <author>
@@ -295,41 +322,6 @@
 <p>Now, this does not include my time, but it is still a milestone for an independently produced podcast using an experimental format in a specialist field.</p>
 <p>Thank you to everyone who helped it get here!</p>
 <p>Take a listen by visiting <a href="https://tarotinterviews.com">https://tarotinterviews.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Previous Guests</title>
-        <author>
-            <name>Finbarre Snarey</name>
-        </author>
-        <link href="https://finbarre.com/guests/"/>
-        <id>https://finbarre.com/guests/</id>
-        <media:content url="https://finbarre.com/media/posts/19/Cest-Touter.png" medium="image" />
-            <category term="Tarot Interviews"/>
-            <category term="Tarot DMs"/>
-            <category term="Guests"/>
-
-        <updated>2026-07-06T19:38:23+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://finbarre.com/media/posts/19/Cest-Touter.png" alt="Collage of portraits, artwork and book images representing people featured on Tarot Interviews and Tarot DMs, including writers, artists, performers, musicians, tarot creators and cultural contributors." />
-                    It is not every day you get to pause and reflect on how far a creative project has come,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://finbarre.com/media/posts/19/Cest-Touter.png" class="type:primaryImage" alt="Collage of portraits, artwork and book images representing people featured on Tarot Interviews and Tarot DMs, including writers, artists, performers, musicians, tarot creators and cultural contributors." /></p>
-                <p data-path-to-node="15">It is not every day you get to pause and reflect on how far a creative project has come, but today is one of those days! </p>
-<p data-path-to-node="16">I recently sat down to update the guest directory for my projects, <i data-path-to-node="16" data-index-in-node="67">Tarot Interviews</i> and <i data-path-to-node="16" data-index-in-node="88">Tarot DMs</i>, and realized we’ve hit a pretty wonderful milestone: <strong data-path-to-node="16" data-index-in-node="152">we have officially featured over 70 guests and contributors.</strong> For those new to the project, the premise is simple but revealing: a three-card, three-question format used to interview writers, artists, musicians, and cultural figures.</p>
-<p data-path-to-node="17">Over the course of 70+ interviews, this format has adapted into two spaces:</p>
-<ul>
-<li data-path-to-node="18,0,0"><strong data-path-to-node="18,0,0" data-index-in-node="0">Tarot Interviews:</strong> A traditional audio podcast format.</li>
-<li data-path-to-node="18,1,0"><strong data-path-to-node="18,1,0" data-index-in-node="0">Tarot DMs:</strong> Written interviews conducted entirely through messaging apps.</li>
-</ul>
-<p data-path-to-node="19">The most rewarding part of this journey has been the sheer diversity of the people who have agreed to sit down (or log on) and pull cards with me. I have spoken with internationally bestselling authors like Joanne Harris and Adrian Tchaikovsky, brilliant narrative designers, historians, and musicians. Tarot Interviews has even taken the format on the road, interviewing festival crew members, artisan blacksmiths, and performers right in the middle of muddy fields!</p>
-<p data-path-to-node="20">A huge thank you to all the creative minds who have trusted me with their time and their stories.</p>
-<p data-path-to-node="21">If you want to see the full, newly updated list of guests, or check out the format for yourself, you can find the directory over on <a href="https://tarotinterviews.com/previous-guests" target="_blank" rel="noopener noreferrer">https://tarotinterviews.com/previous-guests</a></p>
             ]]>
         </content>
     </entry>
